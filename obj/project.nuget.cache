@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tChWh+Mprp9FW0a1dRBjTRk4fch1uAk9g9g1XbhDuBRnMGdNfuAjghEDhOPSTwcWv6FlU6uN7LNm1radG6TYJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\names\\source\\repos\\DoublyLinkedLists\\DoublyLinkedLists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\names\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
